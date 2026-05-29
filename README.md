@@ -53,6 +53,10 @@ For quick testing without signing:
 3. Open the APK file using any file manager
 4. Tap **Install** → **Open**
 
+#Download APK 
+To-Do List App - [Click Me](mailto:your.email@example.com)  
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit pull requests or report issues.
@@ -64,8 +68,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 Your Name - [chaithanya8861@example.com](mailto:your.email@example.com)  
-GitHub: [@Chaithanya](https://github.com/YOUR_USERNAME)
-
 ---
 
 ### ⭐ Star this project if you find it useful!
