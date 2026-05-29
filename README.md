@@ -6,11 +6,11 @@ A clean and simple **To-Do List** Android application to help users manage daily
 
 | Main Screen | Add Task | Edit Task |
 |------------|----------|-----------|
-| ![Main Screen](main_screen.png) | ![Add Task](add_task.png) | ![Edit Task](edit_task.png) |
+| ![Main Screen](main_screen.jpeg) | ![Add Task](add_task.jpeg) | ![Edit Task](edit_task.jpeg) |
 
 | Delete Confirmation | Task Completed | Empty State |
 |---------------------|----------------|--------------|
-| ![Delete](delete_task.png) | ![Completed](completed_task.png) | ![Empty](empty_state.png) |
+| ![Delete](delete_task.jpeg) | ![Completed](completed_task.jpeg) | ![Empty](empty_state.jpeg) |
 
 ## ✨ Features
 
