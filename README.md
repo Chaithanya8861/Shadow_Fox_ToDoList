@@ -54,7 +54,7 @@ For quick testing without signing:
 4. Tap **Install** → **Open**
 
 #Download APK 
-To-Do List App - [Click Me](mailto:your.email@example.com)  
+To-Do List App - [Click Me](https://github.com/Chaithanya8861/Shadow_Fox_ToDoList/blob/main/app-debug.apk.zip)
 ---
 
 ## 🤝 Contributing
