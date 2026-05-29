@@ -39,8 +39,33 @@ A clean and simple **To-Do List** Android application to help users manage daily
 - Android SDK API 21+
 - JDK 11 or higher
 
-### Clone & Run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/todo-list-app.git
+### Step 3: Get Debug APK (Quick Method)
+
+For quick testing without signing:
+1. **Build** → **Build Bundle(s) / APK(s)** → **Build APK(s)**
+2. APK location: `app/build/outputs/apk/debug/app-debug.apk`
+
+## 📥 Installation Instructions
+
+1. Copy the `.apk` file to your Android device
+2. Go to **Settings** → **Security** → Enable **"Unknown Sources"**
+3. Open the APK file using any file manager
+4. Tap **Install** → **Open**
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to submit pull requests or report issues.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📧 Contact
+
+Your Name - [chaithanya8861@example.com](mailto:your.email@example.com)  
+GitHub: [@Chaithanya](https://github.com/YOUR_USERNAME)
+
+---
+
+### ⭐ Star this project if you find it useful!
