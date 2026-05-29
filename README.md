@@ -30,4 +30,17 @@ A clean and simple **To-Do List** Android application to help users manage daily
 - **Database:** SQLite / Room Database
 - **Architecture:** MVVM / MVC
 
-## 📂 Project Structure
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Android Studio (Latest version)
+- Android SDK API 21+
+- JDK 11 or higher
+
+### Clone & Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/todo-list-app.git
