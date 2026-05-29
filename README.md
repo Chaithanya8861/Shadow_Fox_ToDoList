@@ -53,9 +53,9 @@ For quick testing without signing:
 3. Open the APK file using any file manager
 4. Tap **Install** → **Open**
 
-#Download APK 
-To-Do List App - [Click Me](https://github.com/Chaithanya8861/Shadow_Fox_ToDoList/blob/main/app-debug.apk.zip)
----
+## 📥 Download APK
+
+🔗 **[Download To-Do List App APK](https://github.com/Chaithanya8861/todo-list-app/releases/download/v1.0/app-debug.apk)**
 
 ## 🤝 Contributing
 
@@ -65,9 +65,5 @@ Contributions are welcome! Feel free to submit pull requests or report issues.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
-
-Your Name - [chaithanya8861@example.com](mailto:your.email@example.com)  
----
 
 ### ⭐ Star this project if you find it useful!
